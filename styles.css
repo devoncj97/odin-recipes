@@ -1,0 +1,33 @@
+* {
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: flexbox;
+}
+
+body {
+  min-height: 100vh;
+  background-color: rgb(145, 145, 145);
+}
+
+a {
+  display: block;
+  color: antiquewhite;
+  hover: blue;
+}
+
+.list {
+  display: inline-block;
+  text-align: left;
+}
+
+.container {
+  background-color: rgb(118, 71, 194);
+  margin: 20px auto;
+  padding: 50px;
+  position: relative;
+  text-align: center;
+}
+
+
